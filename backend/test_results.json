@@ -1,0 +1,65 @@
+[
+  {
+    "question": "Tell me about yourself.",
+    "result": {
+      "success": true,
+      "data": {
+        "response": "I'm Muhammad Qasim Sheikh, a Senior AI Engineer and Data Scientist with over 7 years of experience in delivering end-to-end AI and machine learning solutions. I am currently based in Lahore, Pakistan, and I work remotely with global teams across various industries including FinTech, Telecommunications, Pet Nutrition, and IoT.\n\nMy specialization lies in Generative AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) systems. I've successfully built production-grade AI pipelines that have driven significant business impact. For example, I architected a GenAI documentation engine that saved over 10 days of manual knowledge transfer, effectively reducing architect-to-designer handoff cycles by 60%. Additionally, I have led teams of more than 10 professionals to develop enterprise Conversational AI platforms.\n\nSome of my key competencies include LLM fine-tuning, prompt engineering, and model optimization techniques like LoRA, PEFT, and quantization. I also have extensive experience in MLOps and production ML systems, as well as cloud architecture across major platforms such as AWS, GCP, and Azure.\n\nIn summary, I am passionate about leveraging AI to solve real-world problems and continuously seek to innovate and collaborate with others in this exciting field. If you're interested in discussing potential opportunities or collaborations, I'd love to connect!",
+        "sources": [
+          "get_profile_overview: {}"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What is your experience with LLMs and Generative AI?",
+    "result": {
+      "success": true,
+      "data": {
+        "response": "I have extensive experience in working with Large Language Models (LLMs) and Generative AI. Here are some highlights from my background:\n\n### Experience with LLMs\n1. **Senior GenAI & LLM Engineer at Mars UK (Oct 2023 - Jan 2026)**\n   - Led GenAI initiatives focused on documentation automation and system migration.\n   - Architected a GenAI documentation engine using GPT-4 and LangChain, achieving over 85% accuracy and significantly reducing manual transfer time.\n   - Developed and integrated a pre-emptive hierarchy-mapping system, mitigating LLM hallucinations.\n   - Technologies: Python, GPT-4, LangChain, Azure, Vector Databases.\n\n2. **Senior AI Engineer at Turing (Dec 2025 - Present)**\n   - Engaged in LLM training data engineering for Meta's coding models.\n   - Developed training datasets by reverse-engineering from Kaggle competitions and evaluated various model submissions.\n   - Technologies: Python, LLMs, Data Annotation, Kaggle.\n\n3. **Principal Software Engineer & ML Lead at NorthBay Solutions (Feb 2023 - Feb 2025)**\n   - Led teams to deploy machine learning solutions, specialized in scalable ML pipelines and model development for enterprise clients.\n\n### Projects in Generative AI\n1. **Engineering Design & Code Automation Suite**\n   - Developed a comprehensive suite of AI tools that automated engineering documentation compliance, resulting in a significant reduction of clarification cycles and generating deployable code with over 85% accuracy.\n   - Technologies: Python, GPT-4, Azure Logic Apps.\n\n2. **AI-Assisted Document Parsing & Validation Framework**\n   - Built a framework using LLMs for document parsing and validation, which minimized review cycles and improved documentation quality, establishing reusable patterns.\n   - Technologies: Python, GPT, AWS Lambda.\n\n3. **LLM-Based Migration & Technical Documentation Engine**\n   - Automated extensive HLD and LLD documentation for enterprise migrations, reducing the documentation effort from days to minutes and enhancing overall consistency.\n   - Technologies: Python, GPT-4, LangChain, Custom Parsers.\n\n### Key Achievements\n- Reduced documentation cycles by 60% using generative AI automation.\n- Developed systems that processed millions of documents with a noticeable improvement in customer satisfaction by 40%.\n\nMy work encompasses a wide variety of applications in LLMs and Generative AI, with a focus on enhancing automation, efficiency, and the quality of outputs in enterprise environments. If you have specific areas or questions in mind, feel free to ask!",
+        "sources": [
+          "search_experience: {'query': 'LLM engineering experience'}",
+          "search_projects: {'query': 'Generative AI'}"
+        ]
+      }
+    }
+  },
+  {
+    "question": "Tell me about the Bookify project.",
+    "result": {
+      "success": true,
+      "data": {
+        "response": "The **Bookify** project is an **AI Hotel Voice Assistant** that I developed for the hospitality industry, specifically designed to streamline real-time room bookings, availability checks, reservation modifications, and guest inquiries through natural voice conversations. \n\n### Problem Solved\nThe project replaced traditional Interactive Voice Response (IVR) systems and scripted call flows, allowing users to engage in more natural conversations when making hotel bookings.\n\n### Key Features\n- **Natural Language Understanding (NLU)**: Handles complex booking requests seamlessly.\n- **Real-Time System Integration**: Works directly with Property Management Systems (PMS) for accurate data handling.\n- **Sub-300ms Latency**: Ensures a fluid conversation experience.\n- **Multi-Turn Dialogue**: Maintains context over multiple interactions.\n- **Confirmation & Validation**: Validates user inputs before executing changes.\n\n### Technical Architecture\n1. **Speech-to-Text**: Implements real-time Automatic Speech Recognition (ASR) with streaming transcription.\n2. **LLM Reasoning**: Utilizes intent classification, slot filling, and dialogue management based on Large Language Models.\n3. **Tool Calling**: Integrates function calls to PMS APIs for executing booking operations.\n4. **Text-to-Speech**: Generates natural voice responses for user interaction.\n5. **State Management**: Tracks session-based context for personalized interactions.\n\n### Impact & Results\n- Eliminated outdated IVR menus, enhancing user interaction.\n- Enabled 24/7 booking capabilities, allowing guests to make reservations at any time.\n- Reduced average call handling time significantly.\n- Improved guest satisfaction ratings.\n\n### Technologies Used\n- **Programming Languages & Frameworks**: Python, FastAPI\n- **AI & ML Tools**: OpenAI GPT for dialogue generation\n- **Speech Technologies**: Speech-to-Text and Text-to-Speech solutions\n- **Integration Techniques**: WebSockets for real-time communication, REST APIs for system integration\n\nThis project not only streamlined operations but also significantly improved the guest experience in hotels by adding a modern and efficient way to handle bookings. If you have any further questions about this project or its implementation, feel free to ask!",
+        "sources": [
+          "search_projects: {'query': 'Bookify'}"
+        ]
+      }
+    }
+  },
+  {
+    "question": "I'm looking for someone with experience in Python, FastAPI, and LLMs. Are you a good fit?",
+    "result": {
+      "success": true,
+      "data": {
+        "response": "Yes, I believe I would be a great fit for the experience you're looking for in Python, FastAPI, and LLMs.\n\n1. **Python**: I have extensive expertise in Python, where I have utilized it for various projects that include building deep learning models and developing data pipelines.\n\n2. **FastAPI**: Although I haven\u2019t specified direct experience with FastAPI in my documented work history, my strong background in Python and building scalable APIs positions me well to quickly learn and implement FastAPI for backend services.\n\n3. **LLMs**: My specialization in large language models (LLMs) includes working with GPT-4, GPT-3.5, and several other architectures, where I have been involved in prompt engineering, fine-tuning, and implementing predictive text applications.\n\n**Relevant Experience**:\n- As the Lead AI Engineer at CXEX Australia, I directed a team that developed a Conversational Analytics platform that leveraged Generative AI. My role involved architecting systems that integrate NLP and LLMs, which I believe aligns closely with your needs.\n\n- Additionally, my work on LLMs includes creating systems for enterprise documentation automation and engineering training datasets for Meta\u2019s coding models.\n\nLet me know if you'd like to dive deeper into any specific area or project!",
+        "sources": [
+          "search_skills: {'query': 'Python'}",
+          "search_skills: {'query': 'FastAPI'}",
+          "search_skills: {'query': 'LLMs'}"
+        ]
+      }
+    }
+  },
+  {
+    "question": "What are your key achievements?",
+    "result": {
+      "success": true,
+      "data": {
+        "response": "Here are my key achievements throughout my career as a Senior AI Engineer and Data Scientist:\n\n1. **Documentation Automation**: I architected a Generative AI documentation engine that reduced manual knowledge transfer times significantly, cutting down documentation handoff cycles from 30 days to just 10-20 days\u2014 a remarkable 60% reduction.\n\n2. **Conversational AI Platform**: I led a team of 10 professionals in building an enterprise-grade Conversational AI platform, which achieved over 85% accuracy in automated High-Level Design (HLD) and Low-Level Design (LLD) documentation generation.\n\n3. **Cost Optimization**: Through strategic cloud platform optimizations, I successfully reduced infrastructure costs by 40%, leading to significant savings for the organization.\n\n4. **LLM Training Datasets**: I developed LLM training datasets specifically for Meta's coding models, enhancing their performance and reliability in production environments.\n\n5. **Real-Time Analytics Systems**: I built advanced real-time analytics systems that served clients like Amazon Fire TV and Google TV, improving their data utilization and decision-making processes.\n\n6. **Customer Satisfaction Improvement**: By implementing a call center analytics platform, I increased customer satisfaction scores from 25% to 65%, demonstrating the direct impact of AI solutions on user experience.\n\nThese successes exemplify my ability to drive measurable business outcomes and lead innovative projects in the AI domain.",
+        "sources": [
+          "get_profile_overview: {}"
+        ]
+      }
+    }
+  }
+]

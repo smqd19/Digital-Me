@@ -1,0 +1,724 @@
+{
+  "profile": {
+    "name": "Muhammad Qasim Sheikh",
+    "title": "Senior AI Engineer & Data Scientist",
+    "years_of_experience": 7,
+    "location": "Lahore, Pakistan",
+    "github": "https://github.com/smqd19",
+    "summary": "Senior AI Engineer and Data Scientist with 7+ years of experience delivering end-to-end AI/ML solutions across diverse industries including FinTech, Telecommunications, Pet Nutrition, and IoT. Specialized in Generative AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) systems, with a proven track record of building production-grade AI pipelines that drive measurable business impact. Key achievements include architecting a GenAI documentation engine that saved 10+ days of manual knowledge transfer, reducing architect-to-designer handoff cycles by 60%, and leading teams of 10+ professionals in building enterprise Conversational AI platforms. Expert in LLM fine-tuning, prompt engineering, and optimizing model performance through techniques like LoRA, PEFT, and quantization.",
+    "core_competencies": [
+      "Generative AI & LLMs (GPT-4, LLaMA, Claude, BERT, Transformers)",
+      "RAG Systems & Vector Databases",
+      "LLM Fine-tuning (LoRA, PEFT, Quantization)",
+      "MLOps & Production ML Systems",
+      "Time Series Forecasting & Predictive Modeling",
+      "NLP & Conversational AI",
+      "Cloud Architecture (AWS, GCP, Azure)",
+      "Technical Leadership & Team Management"
+    ]
+  },
+  "experience": [
+    {
+      "id": "exp_001",
+      "company": "Turing",
+      "role": "Senior AI Engineer",
+      "type": "Contract",
+      "duration": "Dec 2025 - Present",
+      "location": "Remote",
+      "description": "Working on LLM Training Data Engineering for Meta's coding models.",
+      "achievements": [
+        "Developed 'Tiered Improvement' training datasets for Meta's coding models by reverse-engineering Kaggle competitions from baseline to gold-standard levels",
+        "Designed data curation strategies to help models learn complex problem-solving patterns and multi-step reasoning",
+        "Served as Human-in-the-Loop (HITL) reviewer, evaluating model-generated competition entries against multi-parameter rubrics",
+        "Audited thousands of Kaggle datasets against technical parameters to ensure optimal data diversity and quality for model training"
+      ],
+      "technologies": ["Python", "LLMs", "Data Annotation", "Kaggle", "Model Evaluation"],
+      "skills_demonstrated": ["LLM Training", "Data Engineering", "HITL Review", "Data Curation"]
+    },
+    {
+      "id": "exp_002",
+      "company": "Mars UK",
+      "role": "Senior GenAI & LLM Engineer",
+      "type": "Contract",
+      "duration": "Oct 2023 - Jan 2026",
+      "location": "Remote",
+      "description": "Led GenAI initiatives for enterprise documentation automation and system migration.",
+      "achievements": [
+        "Architected a GenAI documentation engine using GPT-o3-mini and LangChain achieving 85%+ accuracy, saving 10+ days of manual knowledge transfer",
+        "Led migration of MuleSoft integrations to Azure 2.0 leveraging Generative AI for optimized data integration workflows",
+        "Developed custom hierarchy-mapping system for XML and DWL files to preserve complex logic flows, mitigating LLM hallucinations",
+        "Built AI-powered HLD Validator tool reducing architect-to-designer handoff from 30 days to 10-20 days",
+        "Integrated Vector Database for storing Human-in-the-Loop feedback patterns enabling real-time learning",
+        "Scaled validator framework to include Azure Logic App code validation, reducing handoff cycle from 5-20 days to 2-5 days"
+      ],
+      "technologies": ["Python", "GPT-4", "LangChain", "Azure", "Vector Databases", "RAG", "MuleSoft", "XML/DWL Processing"],
+      "skills_demonstrated": ["GenAI Architecture", "LLM Engineering", "RAG Systems", "Enterprise Automation", "Prompt Engineering"]
+    },
+    {
+      "id": "exp_003",
+      "company": "CXEX Australia",
+      "role": "Lead AI Engineer",
+      "type": "Contract",
+      "duration": "Apr 2023 - Jan 2025",
+      "location": "Remote",
+      "description": "Led AI team building enterprise Conversational Analytics platform.",
+      "achievements": [
+        "Led a team of 10 professionals in developing an enterprise Call Center Conversational Analytics platform powered by Generative AI",
+        "Architected speech-to-text pipelines and sentiment analysis systems for real-time call analysis",
+        "Provided strategic guidance on AI-driven insights, automation opportunities, and product roadmap",
+        "Implemented NLP models for intent classification, entity extraction, and conversation summarization"
+      ],
+      "technologies": ["Python", "Transformers", "NLP", "Speech Recognition", "Generative AI", "Cloud Infrastructure"],
+      "skills_demonstrated": ["Team Leadership", "Conversational AI", "NLP", "Speech Recognition", "Strategic Planning"]
+    },
+    {
+      "id": "exp_004",
+      "company": "NorthBay Solutions",
+      "role": "Principal Software Engineer & ML Lead",
+      "type": "Full-time",
+      "duration": "Feb 2023 - Feb 2025",
+      "location": "Remote",
+      "description": "Led ML teams building enterprise machine learning solutions.",
+      "achievements": [
+        "Led multiple cross-functional teams in building and deploying Machine Learning solutions",
+        "Collaborated with global Data Scientists to architect scalable ML pipelines for enterprise clients",
+        "Specialized in Time Series Analysis and Forecasting using ARIMA, seasonal decomposition, and multivariate analysis",
+        "Delivered demand forecasting models improving inventory optimization and reducing operational costs",
+        "Mentored junior data scientists and engineers, establishing best practices for model development"
+      ],
+      "technologies": ["Python", "SQL", "scikit-learn", "TensorFlow", "AWS", "Docker"],
+      "skills_demonstrated": ["Team Leadership", "ML Architecture", "Time Series Forecasting", "Mentorship", "MLOps"]
+    },
+    {
+      "id": "exp_005",
+      "company": "4G Capital Kenya",
+      "role": "Junior Data Scientist",
+      "type": "Contract",
+      "duration": "Oct 2022 - Oct 2023",
+      "location": "Remote",
+      "description": "Developed predictive models for financial markets.",
+      "achievements": [
+        "Developed predictive models for commodity market forecasting and quantitative trading strategies",
+        "Collaborated with analysts and traders to optimize data-driven decision-making processes",
+        "Built feature engineering pipelines for financial time series data"
+      ],
+      "technologies": ["Python", "pandas", "scikit-learn", "Time Series Analysis", "Statistical Modeling"],
+      "skills_demonstrated": ["Predictive Modeling", "Financial Analysis", "Time Series", "Feature Engineering"]
+    },
+    {
+      "id": "exp_006",
+      "company": "9T5 (Looper Insights)",
+      "role": "Senior Software Engineer - Data Science",
+      "type": "Full-time",
+      "duration": "Apr 2022 - Feb 2023",
+      "location": "Remote",
+      "description": "Built data science solutions for streaming analytics and cryptocurrency analysis.",
+      "achievements": [
+        "Developed deep neural network models for time series forecasting and cryptocurrency market analysis",
+        "Built image processing pipelines using Pytesseract, OpenCV, and TensorFlow for automated data extraction",
+        "Architected serverless data pipelines using AWS Lambda, Amazon Redshift, and S3",
+        "Created analytics dashboards in Power BI for clients including Amazon Fire TV and Google TV",
+        "Improved model accuracy by 25% through feature engineering and classifier optimization",
+        "Reduced infrastructure costs by 40% by migrating from GCP BigQuery to Amazon Redshift"
+      ],
+      "technologies": ["Python", "TensorFlow", "OpenCV", "AWS Lambda", "Amazon Redshift", "S3", "Power BI", "SQL", "Azure"],
+      "skills_demonstrated": ["Deep Learning", "Computer Vision", "Serverless Architecture", "Data Visualization", "Cost Optimization"]
+    },
+    {
+      "id": "exp_007",
+      "company": "Afiniti",
+      "role": "Production Engineer & Data Automation Analyst",
+      "type": "Full-time",
+      "duration": "Aug 2020 - Apr 2022",
+      "location": "Lahore, Pakistan",
+      "description": "Provided production support and data automation for AI-powered customer engagement platform.",
+      "achievements": [
+        "Provided 24/7 technical support and production monitoring for AI-powered customer engagement platform",
+        "Built automated alerting systems and SOPs that reduced incident response time by 50%",
+        "Collaborated with AI, Data Engineering, ETL, DevOps, Infrastructure, and DBA teams",
+        "Managed containerized environments using Docker for production deployments",
+        "Utilized big data technologies including Spark, Hadoop, and cloud data warehouses"
+      ],
+      "technologies": ["Python", "SQL", "PostgreSQL", "Docker", "Spark", "Hadoop", "GCP", "AWS", "Grafana", "Git", "JIRA"],
+      "skills_demonstrated": ["Production Support", "Data Automation", "Big Data", "DevOps", "Incident Management"]
+    },
+    {
+      "id": "exp_008",
+      "company": "Techno Desert",
+      "role": "Junior Data Scientist",
+      "type": "Full-time",
+      "duration": "Jan 2018 - Jul 2020",
+      "location": "Lahore, Pakistan",
+      "description": "First data science role working on IoT analytics and ML pipelines.",
+      "achievements": [
+        "Conducted end-to-end data analysis on IoT device data identifying patterns and key factors",
+        "Developed ETL pipelines for complete AI/ML workflow from data ingestion to model deployment",
+        "Built predictive models using classification, regression, and deep learning techniques",
+        "Performed A/B testing to validate model improvements and data-driven hypotheses",
+        "Developed a home automation IoT system as an internal innovation project",
+        "Delivered multiple projects on time with zero critical bugs"
+      ],
+      "technologies": ["Python", "PostgreSQL", "MySQL", "TensorFlow", "scikit-learn", "Data Mining", "Statistical Analysis"],
+      "skills_demonstrated": ["Data Analysis", "ETL Development", "Predictive Modeling", "A/B Testing", "IoT Analytics"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj_001",
+      "name": "Bookify - AI Hotel Voice Assistant",
+      "category": "Voice AI",
+      "tags": ["Voice AI", "Conversational AI", "Hospitality Tech"],
+      "description": "Enterprise-grade AI voice assistant for the hospitality industry handling real-time room bookings, availability checks, reservation modifications, and guest inquiries through natural voice conversations.",
+      "problem_solved": "Replaced traditional IVR systems and scripted call flows with natural voice conversations for hotel bookings.",
+      "key_features": [
+        "Natural Language Understanding for complex booking requests",
+        "Real-Time System Integration with Property Management Systems",
+        "Sub-300ms Latency for natural conversations",
+        "Multi-Turn Dialogue with context maintenance",
+        "Confirmation & Validation before executing changes"
+      ],
+      "technical_details": {
+        "architecture": [
+          "Speech-to-Text: Real-time ASR with streaming transcription",
+          "LLM Reasoning: Intent classification, slot filling, dialogue management",
+          "Tool Calling: Function calls to PMS APIs",
+          "Text-to-Speech: Natural voice synthesis",
+          "State Management: Session-based context tracking"
+        ]
+      },
+      "impact": [
+        "Eliminated rigid IVR menus",
+        "Enabled 24/7 booking capability",
+        "Reduced average call handling time",
+        "Improved guest satisfaction"
+      ],
+      "technologies": ["Python", "FastAPI", "OpenAI GPT", "Speech-to-Text", "Text-to-Speech", "WebSockets", "Real-time Streaming", "REST APIs"],
+      "target_industries": ["Hotels & Resorts", "Hospitality Chains", "Vacation Rentals", "OTAs", "Booking Platforms"]
+    },
+    {
+      "id": "proj_002",
+      "name": "Appointify - Healthcare Voice Assistant",
+      "category": "Voice AI",
+      "tags": ["Voice AI", "Healthcare", "Appointment Management"],
+      "description": "AI-powered front desk assistant for healthcare clinics handling appointment scheduling, rescheduling, cancellations, and patient inquiries through natural voice conversations with EHR integration.",
+      "problem_solved": "Automated routine appointment scheduling to reduce front desk workload and enable after-hours booking.",
+      "key_features": [
+        "Natural Appointment Booking via voice",
+        "EHR Integration for real-time availability",
+        "Appointment Reminders to reduce no-shows",
+        "Rescheduling & Cancellation handling",
+        "FAQ Handling for common questions",
+        "HIPAA-conscious design"
+      ],
+      "technical_details": {
+        "architecture": [
+          "Voice Pipeline: Low-latency speech recognition and synthesis",
+          "Intent Recognition: Healthcare-specific classification",
+          "EHR API Integration: HL7 FHIR-compatible scheduling",
+          "Dialogue Management: Multi-turn conversations",
+          "Reminder System: Automated outbound calls"
+        ]
+      },
+      "impact": [
+        "Reduced front desk call volume",
+        "Decreased no-show rates",
+        "Enabled after-hours booking",
+        "Improved patient experience"
+      ],
+      "technologies": ["Python", "Voice AI", "EHR Integration", "FHIR APIs", "LLM", "Speech Recognition", "Text-to-Speech"],
+      "sample_interactions": [
+        "I need to reschedule my appointment.",
+        "Is Dr. Harris available tomorrow?",
+        "What time does the clinic open on Saturdays?"
+      ]
+    },
+    {
+      "id": "proj_003",
+      "name": "Heart Place - Clinic Voice Assistant",
+      "category": "Voice AI",
+      "tags": ["Voice AI", "Healthcare"],
+      "description": "Specialized clinic assistant for cardiology practices providing quick scheduling and availability checks with 24/7 availability.",
+      "key_features": [
+        "Instant Availability Checks",
+        "Quick Scheduling flow",
+        "Specialty-Specific cardiology terminology",
+        "After-Hours Support"
+      ],
+      "technologies": ["Python", "Voice AI", "Healthcare APIs", "LLM", "Real-time Processing"]
+    },
+    {
+      "id": "proj_004",
+      "name": "Voice Translation Assistant",
+      "category": "Voice AI",
+      "tags": ["Voice AI", "Real-Time Translation", "Multilingual"],
+      "description": "Real-time multilingual voice translation system enabling natural conversations between speakers of English, Urdu, and Arabic with under 3 seconds latency.",
+      "problem_solved": "Breaking down language barriers in real-time communication without human interpreters.",
+      "key_features": [
+        "Real-Time Processing under 3 seconds",
+        "Accent & Dialect Support (US, UK, Indian, Australian English; Pakistani Urdu; Gulf Arabic)",
+        "Contextual Translation maintaining conversation context",
+        "Natural Voice Output matching tone and pace",
+        "Bidirectional Translation"
+      ],
+      "technical_details": {
+        "architecture": [
+          "Speech Recognition: Multi-language ASR with accent adaptation",
+          "Translation Engine: Neural machine translation with context awareness",
+          "Speech Synthesis: Language-specific TTS with natural prosody",
+          "Streaming Pipeline: Optimized for minimal buffering",
+          "Context Management: Conversation history for coherent translations"
+        ]
+      },
+      "impact": [
+        "Achieved <3 seconds end-to-end latency",
+        "Enabled seamless multilingual conversations",
+        "Deployed in real-time communication workflows"
+      ],
+      "technologies": ["Python", "Speech Recognition", "Neural Machine Translation", "Text-to-Speech", "WebSockets", "Real-time Streaming"],
+      "supported_languages": ["English", "Urdu", "Arabic"]
+    },
+    {
+      "id": "proj_005",
+      "name": "Voice AI Demand Intake Automation System",
+      "category": "Voice AI",
+      "tags": ["Voice AI", "Enterprise Automation", "Requirements Management"],
+      "description": "Enterprise voice-enabled system replacing manual client demand intake processes, converting natural speech requirements into structured, validated outputs.",
+      "problem_solved": "Traditional demand intake took 5-10 days with manual forms and clarification meetings. This system automates the entire process.",
+      "key_features": [
+        "Voice-Based Input for natural requirement submission",
+        "Real-Time Validation via LLM analysis",
+        "Clarification Prompts for ambiguous inputs",
+        "Structured Output in JSON and JIRA tickets",
+        "System Integration with project management tools"
+      ],
+      "impact": [
+        "Reduced demand intake time from 5-10 days to 2-5 days",
+        "Eliminated manual form-based intake",
+        "Improved requirement clarity and completeness",
+        "Freed solution architects for design work"
+      ],
+      "technologies": ["Python", "Voice AI", "LLM (GPT)", "FastAPI", "JIRA Integration", "Azure DevOps", "Real-time Processing"]
+    },
+    {
+      "id": "proj_006",
+      "name": "Azure DevOps Voice Intelligence Assistant",
+      "category": "Voice AI",
+      "tags": ["Voice AI", "DevOps", "Executive Reporting"],
+      "description": "Voice-based executive reporting assistant enabling leadership to query Azure DevOps using natural language and receive spoken responses.",
+      "problem_solved": "Executives needed quick project status updates but lacked time to navigate dashboards.",
+      "key_features": [
+        "Natural Language Queries for project status",
+        "ADO API Integration for real-time data",
+        "Executive Summarization without technical jargon",
+        "Voice Response for hands-free consumption",
+        "Multi-Domain Queries (work items, sprints, pipelines)"
+      ],
+      "impact": [
+        "Enabled on-demand voice access to project status",
+        "Reduced dependency on dashboards",
+        "Improved decision-making speed",
+        "Increased DevOps tool adoption among non-technical stakeholders"
+      ],
+      "technologies": ["Python", "Azure DevOps APIs", "Voice AI", "LLM (GPT)", "Speech Recognition", "Text-to-Speech"],
+      "sample_queries": [
+        "What's the current sprint progress?",
+        "How many critical bugs are open?",
+        "Give me a summary of the release pipeline status."
+      ]
+    },
+    {
+      "id": "proj_007",
+      "name": "What's Happening - Call Center Intelligence Platform",
+      "category": "Voice AI",
+      "tags": ["Voice AI", "Analytics", "Contact Center"],
+      "description": "End-to-end audio intelligence platform analyzing millions of customer support calls daily with automated transcription, PII redaction, sentiment analysis, and script adherence evaluation.",
+      "problem_solved": "Replaced manual call reviews with fully automated, real-time analytics at scale.",
+      "key_features": [
+        "Automated Call Ingestion processing millions daily",
+        "Speech-to-Text transcription",
+        "PII Redaction (names, SSNs, credit cards)",
+        "Sentiment Analysis (frustrated, satisfied, confused, angry)",
+        "Script Adherence evaluation",
+        "Semantic Extraction and topic identification",
+        "Leadership Dashboards"
+      ],
+      "technical_details": {
+        "architecture": [
+          "Ingestion Pipeline: Event-driven processing at scale",
+          "ASR Engine: Optimized for call center audio",
+          "NLP Pipeline: Entity extraction, sentiment, topic modeling",
+          "Compliance Engine: Script matching and scoring",
+          "PII Detection: Pattern matching and NER",
+          "Analytics Layer: Aggregated metrics and anomaly detection"
+        ]
+      },
+      "impact": [
+        "Increased customer satisfaction from 25% to 65%",
+        "Automated analysis of millions of calls",
+        "Enabled real-time agent performance monitoring",
+        "Provided actionable dashboards for leadership"
+      ],
+      "technologies": ["Python", "Speech-to-Text", "NLP", "Sentiment Analysis", "PII Detection", "Apache Kafka", "AWS (Lambda, S3, Redshift)", "Power BI", "Real-time Analytics"]
+    },
+    {
+      "id": "proj_008",
+      "name": "LLM-Based Migration & Technical Documentation Engine",
+      "category": "Generative AI",
+      "tags": ["Generative AI", "Enterprise Automation", "Documentation"],
+      "description": "High-complexity LLM pipeline automating large-scale system migration documentation, parsing legacy codebases and generating standards-compliant technical documentation.",
+      "problem_solved": "Enterprise migrations require extensive HLD/LLD documentation taking senior architects weeks. This automates 80%+ of the effort.",
+      "key_features": [
+        "Codebase Parsing for MuleSoft (XML, DWL)",
+        "Structured Extraction to JSON preserving hierarchy",
+        "LLD Generation from parsed code",
+        "HLD Compliance Validation",
+        "Iterative Refinement with HITL feedback"
+      ],
+      "technical_details": {
+        "architecture": [
+          "Code Parsers: Custom XML and DWL with hierarchy preservation",
+          "Chunking Strategy: Context-aware code segmentation",
+          "LLM Pipeline: Multi-stage generation with validation",
+          "Template Engine: Standards-compliant formatting",
+          "Feedback Loop: Vector database storing refinement patterns"
+        ]
+      },
+      "impact": [
+        "Reduced LLD creation from 8-18 days to under 30 minutes",
+        "Achieved ~70% initial accuracy",
+        "Improved HLD-to-LLD consistency",
+        "Accelerated migration planning",
+        "Reduced dependency on senior architects"
+      ],
+      "technologies": ["Python", "LLM (GPT-4, GPT-o3-mini)", "LangChain", "Custom Parsers", "Vector Database", "FastAPI", "Azure"]
+    },
+    {
+      "id": "proj_009",
+      "name": "Engineering Design & Code Automation Suite",
+      "category": "Generative AI",
+      "tags": ["Generative AI", "Code Generation", "Compliance Automation"],
+      "description": "Comprehensive suite of autonomous AI tools enforcing engineering standards, generating production-ready artifacts, and validating system designs.",
+      "components": [
+        {
+          "name": "HLD Standards Validator",
+          "description": "Automated compliance checking of High-Level Design documents against organizational standards"
+        },
+        {
+          "name": "HLD-to-LLD Generator",
+          "description": "Converts architecture designs into detailed technical specifications with traceability"
+        },
+        {
+          "name": "Azure Logic App Code Generator",
+          "description": "Generates deployable Azure Logic App workflows and ARM templates with 85%+ accuracy"
+        },
+        {
+          "name": "AI Code Validation Engine",
+          "description": "Validates generated code against internal guidelines, scrapes wikis for evolving standards"
+        }
+      ],
+      "impact": [
+        "Reduced HLD clarification cycles from 2-4 weeks to days",
+        "Automated compliance checks before handover",
+        "Generated deployable code with 85%+ accuracy",
+        "Saved up to 20 hours per month per team"
+      ],
+      "technologies": ["Python", "LLM (GPT-4)", "Azure Logic Apps", "ARM Templates", "Web Scraping", "Vector Database", "FastAPI"]
+    },
+    {
+      "id": "proj_010",
+      "name": "AI-Assisted Document Parsing & Validation Framework",
+      "category": "Generative AI",
+      "tags": ["Generative AI", "Document Processing", "Enterprise Automation"],
+      "description": "AI automation framework using LLMs for deterministic document parsing, validation, and structuring, establishing foundational patterns for controlled enterprise LLM usage.",
+      "key_features": [
+        "Prompt-Driven Extraction from enterprise documents",
+        "Validation Logic for missing/inconsistent information",
+        "Deterministic Outputs ensuring repeatability",
+        "API Exposure via FastAPI",
+        "Serverless Deployment on AWS Lambda"
+      ],
+      "impact": [
+        "Reduced document review cycles from days to hours",
+        "Minimized clarification back-and-forth",
+        "Improved documentation quality",
+        "Enabled controlled LLM adoption in enterprise",
+        "Established reusable patterns"
+      ],
+      "technologies": ["Python", "LLM (GPT)", "FastAPI", "AWS Lambda", "Serverless Architecture", "Prompt Engineering"]
+    },
+    {
+      "id": "proj_011",
+      "name": "AI-Powered Incident Triage & Routing System",
+      "category": "AI/ML",
+      "tags": ["AI/ML", "DevOps", "Incident Management"],
+      "description": "Intelligent incident triage system automatically analyzing monitoring logs, classifying incident types, and routing to correct engineering teams.",
+      "problem_solved": "Manual triage was slow, inconsistent, and often routed issues to wrong teams.",
+      "key_features": [
+        "Log Ingestion from DataDog",
+        "LLM Classification for root cause categorization",
+        "Confidence Scoring with escalation thresholds",
+        "Team Routing automation",
+        "Audit Trail for compliance"
+      ],
+      "technical_details": {
+        "architecture": [
+          "Event Triggers: AWS Lambda on log events",
+          "Classification Engine: LLM with few-shot examples",
+          "Routing Logic: Rules + ML confidence scoring",
+          "Integration Layer: JIRA/ServiceNow connections",
+          "Feedback Loop: Correction tracking for improvement"
+        ]
+      },
+      "impact": [
+        "Reduced Mean Time to Triage by 30-50%",
+        "Ensured consistent prioritization",
+        "Lowered operational workload",
+        "Eliminated incorrect default routing",
+        "Improved incident response reliability"
+      ],
+      "technologies": ["Python", "LLM", "AWS Lambda", "DataDog", "JIRA/ServiceNow Integration", "Event-Driven Architecture"]
+    },
+    {
+      "id": "proj_012",
+      "name": "Insurance Underwriting Chatbot",
+      "category": "Conversational AI",
+      "tags": ["Conversational AI", "Insurance", "Document Processing"],
+      "description": "Intelligent insurance underwriting assistant analyzing customer-submitted documents to determine appropriate insurance products and coverage levels.",
+      "key_features": [
+        "Document Upload (PDF) for ID, financial, medical, property documents",
+        "Automated Document Processing with OCR",
+        "Risk Assessment via AI analysis",
+        "Product Matching based on needs and risk profile",
+        "Conversational Interface for submission and clarification",
+        "Explainable Recommendations"
+      ],
+      "technical_details": {
+        "architecture": [
+          "Document Processing: PDF parsing, OCR (Pytesseract)",
+          "Information Extraction: NER and LLM-based",
+          "Risk Scoring: ML models on extracted features",
+          "Product Matching: Rules + LLM reasoning",
+          "Chat Interface: File upload capability"
+        ]
+      },
+      "use_cases": [
+        "Auto insurance quotes from driving history",
+        "Health insurance from medical records",
+        "Property insurance from property documents",
+        "Life insurance underwriting"
+      ],
+      "technologies": ["Python", "LLM", "PDF Processing", "OCR (Pytesseract)", "FastAPI", "Document AI", "Risk Modeling"]
+    },
+    {
+      "id": "proj_013",
+      "name": "E-Commerce Product Recommendation Chatbot",
+      "category": "Conversational AI",
+      "tags": ["Conversational AI", "E-Commerce", "Recommendation Systems"],
+      "description": "Embedded website chatbot providing personalized product recommendations based on natural language descriptions and handling order tracking.",
+      "key_features": [
+        "Natural Language Product Discovery",
+        "Semantic Product Search understanding style, occasion, color, size",
+        "Visual Recommendations with images and prices",
+        "Order Tracking via chat",
+        "Purchase History Context for personalization",
+        "Seamless Website Integration"
+      ],
+      "technical_details": {
+        "architecture": [
+          "Product Embedding: Vector representations of catalog",
+          "NLU Engine: Intent and entity extraction",
+          "Recommendation Engine: Hybrid semantic + collaborative filtering",
+          "Order Integration: Real-time shipping API connection",
+          "Chat Widget: Embeddable with brand customization"
+        ]
+      },
+      "sample_interactions": [
+        "Show me summer dresses under $50",
+        "I need something casual for a beach vacation",
+        "Where is my order #12345?",
+        "Do you have this in size medium?"
+      ],
+      "technologies": ["Python", "LLM", "Vector Database", "Recommendation Systems", "E-commerce APIs", "Embeddable Chat Widget", "FastAPI"]
+    },
+    {
+      "id": "proj_014",
+      "name": "Time Series Forecasting & Crypto Analysis Platform",
+      "category": "Data Science",
+      "tags": ["Data Science", "Time Series", "Cryptocurrency"],
+      "description": "Comprehensive platform for cryptocurrency market analysis and time series forecasting with automated trading signals and Telegram/Discord bot integration.",
+      "repository": "github.com/smqd19/Time-Series-Forecasting-and-Crypto-Analysis-Bots",
+      "key_features": [
+        "Price Forecasting with LSTM and Transformer models",
+        "Technical Analysis (RSI, MACD, Bollinger Bands, Moving Averages)",
+        "Trading Signals (rule-based and ML-based)",
+        "Bot Integration for Telegram and Discord alerts",
+        "Multi-Exchange Support",
+        "Backtesting Engine"
+      ],
+      "technical_details": {
+        "architecture": [
+          "Data Pipeline: Real-time and historical from exchange APIs",
+          "Feature Engineering: Technical indicators and market features",
+          "Forecasting Models: LSTM, GRU, Transformer",
+          "Signal Generation: Ensemble approach",
+          "Alert System: Bot notifications",
+          "Visualization: Interactive charts and dashboards"
+        ]
+      },
+      "technologies": ["Python", "TensorFlow", "Keras", "pandas", "Telegram API", "Discord API", "Cryptocurrency Exchange APIs", "Time Series Analysis"]
+    },
+    {
+      "id": "proj_015",
+      "name": "Group Spam Review Detection System",
+      "category": "Data Science",
+      "tags": ["Data Science", "NLP", "Fraud Detection"],
+      "description": "Machine learning system detecting coordinated spam review campaigns using K-Cliques clustering and behavioral analysis on Yelp data.",
+      "repository": "github.com/smqd19/Group_Spam_Review_Detection",
+      "key_features": [
+        "Group Detection via K-Cliques clustering",
+        "Behavioral Analysis (temporal patterns, review similarity, rating distribution)",
+        "Feature Engineering for reviewer and group-level indicators",
+        "Classification with ML spam probability scoring",
+        "Visualization of network graphs"
+      ],
+      "research_contribution": [
+        "Novel graph clustering application for spam detection",
+        "Behavioral feature engineering for group spam",
+        "Validated on real Yelp dataset"
+      ],
+      "technologies": ["Python", "scikit-learn", "NetworkX", "Graph Clustering", "NLP", "Yelp Dataset"]
+    }
+  ],
+  "skills": {
+    "generative_ai_llms": {
+      "models": ["GPT-4", "GPT-3.5", "Claude", "LLaMA", "Mistral", "BERT", "T5"],
+      "frameworks": ["LangChain", "Hugging Face Transformers", "OpenAI API", "Anthropic API"],
+      "techniques": ["Prompt Engineering", "RAG (Retrieval-Augmented Generation)", "Fine-tuning", "Few-shot Learning", "Chain-of-Thought Prompting"],
+      "optimization": ["LoRA", "PEFT", "Quantization (INT8, INT4)", "CUDA optimization"],
+      "vector_databases": ["ChromaDB", "Pinecone", "Weaviate", "FAISS"]
+    },
+    "machine_learning": {
+      "frameworks": ["TensorFlow", "PyTorch", "Keras", "scikit-learn", "XGBoost", "LightGBM"],
+      "techniques": ["Supervised Learning", "Unsupervised Learning", "Deep Neural Networks", "CNNs", "RNNs", "LSTMs", "Transformers", "Attention Mechanisms"],
+      "specializations": ["Time Series Forecasting (ARIMA, Prophet, LSTM)", "Predictive Modeling", "Classification", "Regression", "Clustering"],
+      "mlops": ["Model versioning", "A/B Testing", "Model Monitoring", "CI/CD for ML"]
+    },
+    "nlp": {
+      "libraries": ["spaCy", "NLTK", "Hugging Face", "Gensim"],
+      "applications": ["Text Classification", "Named Entity Recognition", "Sentiment Analysis", "Question Answering", "Text Summarization", "Conversational AI"],
+      "techniques": ["Word Embeddings (Word2Vec, GloVe)", "Transformer architectures", "Tokenization", "Text Preprocessing"]
+    },
+    "computer_vision": {
+      "libraries": ["OpenCV", "Pytesseract", "PIL/Pillow"],
+      "applications": ["Image Processing", "OCR", "Object Detection", "Image Classification"],
+      "cloud_services": ["AWS Rekognition", "Google Vision API"]
+    },
+    "cloud_platforms": {
+      "aws": {
+        "compute": ["EC2", "Lambda", "ECS", "SageMaker", "SageMaker Pipelines"],
+        "storage": ["S3", "Redshift"],
+        "ai_ml": ["Rekognition", "Comprehend", "Bedrock"],
+        "devops": ["CodeCatalyst", "CloudFormation"],
+        "architecture": ["Well-Architected Framework", "Cost Optimization"]
+      },
+      "gcp": ["BigQuery", "Cloud Functions", "Vertex AI", "Cloud Storage"],
+      "azure": ["Azure ML", "Azure Logic Apps", "Azure Functions", "Azure DevOps"],
+      "containerization": ["Docker", "Kubernetes"]
+    },
+    "data_engineering": {
+      "etl": ["PySpark", "Apache Spark", "Hadoop", "DataStage", "Airflow"],
+      "databases": ["PostgreSQL", "MySQL", "MongoDB", "Redis", "DB2"],
+      "data_warehouses": ["Amazon Redshift", "BigQuery", "Snowflake"],
+      "processing": ["pandas", "NumPy", "Dask"]
+    },
+    "programming_languages": {
+      "expert": ["Python", "SQL"],
+      "proficient": ["Shell Scripting", "JavaScript"],
+      "familiar": ["C++", "R"]
+    },
+    "development_tools": {
+      "version_control": ["Git", "GitHub", "Bitbucket"],
+      "ides": ["VS Code", "PyCharm", "Jupyter Notebooks"],
+      "project_management": ["JIRA", "Confluence", "Agile/Scrum"],
+      "monitoring": ["Grafana", "CloudWatch", "Application Insights"],
+      "api_development": ["FastAPI", "Flask", "REST APIs"]
+    },
+    "visualization": {
+      "tools": ["Power BI", "Tableau", "Google Data Studio", "Matplotlib", "Seaborn", "Plotly"],
+      "applications": ["Real-time analytics dashboards", "KPI tracking"]
+    },
+    "business_strategy": [
+      "Business Transformation & Digital Strategy",
+      "Strategic Planning & Roadmap Development",
+      "Product Development & SaaS Development",
+      "Marketing Analytics & Data-Driven Decision Making",
+      "Solution Architecture & System Design"
+    ],
+    "leadership": [
+      "Team Leadership & Cross-functional Collaboration",
+      "Staff Augmentation & Resource Planning",
+      "Agile/Scrum Project Management",
+      "Stakeholder Communication & Client Relations",
+      "Technical Mentorship & Knowledge Transfer"
+    ]
+  },
+  "education": [
+    {
+      "id": "edu_001",
+      "degree": "Master's Degree in Data Science",
+      "institution": "FAST NUCES (National University of Computer and Emerging Sciences)",
+      "duration": "May 2020 - Jun 2022",
+      "highlights": [
+        "Specialized in transforming data into actionable insights for complex business decisions",
+        "Coursework: Machine Learning, Deep Learning, Statistical Analysis, Big Data Processing, Data Mining",
+        "Applied computational, statistical, and ML techniques to large-scale datasets"
+      ]
+    },
+    {
+      "id": "edu_002",
+      "degree": "Bachelor's Degree in Computer Science",
+      "institution": "COMSATS University Islamabad",
+      "duration": "Mar 2016 - Mar 2020",
+      "highlights": [
+        "Focus areas: Machine Learning, Deep Learning, Algorithms, Data Structures",
+        "Final year project focused on ML applications"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert_001",
+      "name": "AWS Certified Developer Associate",
+      "issuer": "Amazon Web Services",
+      "description": "Validated expertise in developing and maintaining AWS-based applications"
+    },
+    {
+      "id": "cert_002",
+      "name": "Machine Learning Specialization",
+      "issuer": "Coursera",
+      "description": "Comprehensive training in ML algorithms, neural networks, and best practices"
+    },
+    {
+      "id": "cert_003",
+      "name": "Data Analytics Consulting Virtual Internship",
+      "issuer": "KPMG Australia",
+      "description": "Hands-on experience in data analytics consulting methodologies"
+    },
+    {
+      "id": "cert_004",
+      "name": "AI Engineering Bootcamp",
+      "issuer": "Andela AI Academy",
+      "duration": "Nov 2025 - Dec 2025",
+      "description": "Advanced training in AI Engineering practices and methodologies"
+    }
+  ],
+  "key_achievements": [
+    "Reduced documentation handoff cycles by 60% (30 days to 10-20 days) through GenAI-powered automation",
+    "Led team of 10 professionals in building enterprise Conversational AI platform",
+    "Achieved 85%+ accuracy in automated HLD/LLD documentation generation",
+    "Reduced infrastructure costs by 40% through cloud platform optimization",
+    "Developed LLM training datasets for Meta's coding models",
+    "Built real-time analytics systems serving clients like Amazon Fire TV and Google TV",
+    "Increased customer satisfaction from 25% to 65% through call center analytics platform"
+  ]
+}

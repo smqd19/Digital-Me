@@ -1,0 +1,395 @@
+================================================================================
+                        MUHAMMAD QASIM SHEIKH
+                Senior AI Engineer & Data Scientist
+================================================================================
+
+GitHub: https://github.com/smqd19
+Location: Lahore, Pakistan
+
+--------------------------------------------------------------------------------
+PROFESSIONAL SUMMARY
+--------------------------------------------------------------------------------
+
+Senior AI Engineer and Data Scientist with 7+ years of experience delivering 
+end-to-end AI/ML solutions across diverse industries including FinTech, 
+Telecommunications, Pet Nutrition, and IoT. Specialized in Generative AI, 
+Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) systems, 
+with a proven track record of building production-grade AI pipelines that drive 
+measurable business impact.
+
+Key achievements include architecting a GenAI documentation engine that saved 
+10+ days of manual knowledge transfer, reducing architect-to-designer handoff 
+cycles by 60%, and leading teams of 10+ professionals in building enterprise 
+Conversational AI platforms. Expert in LLM fine-tuning, prompt engineering, 
+and optimizing model performance through techniques like LoRA, PEFT, and 
+quantization.
+
+Proficient in cloud platforms (AWS, GCP, Azure) and experienced in building 
+scalable data pipelines, ETL workflows, and real-time analytics systems. 
+Adept at collaborating with cross-functional global teams in fast-paced Agile 
+environments, translating complex business requirements into robust AI solutions.
+
+Core Competencies:
+• Generative AI & LLMs (GPT-4, LLaMA, Claude, BERT, Transformers)
+• RAG Systems & Vector Databases
+• LLM Fine-tuning (LoRA, PEFT, Quantization)
+• MLOps & Production ML Systems
+• Time Series Forecasting & Predictive Modeling
+• NLP & Conversational AI
+• Cloud Architecture (AWS, GCP, Azure)
+• Technical Leadership & Team Management
+
+
+================================================================================
+                        PROFESSIONAL EXPERIENCE
+================================================================================
+
+--------------------------------------------------------------------------------
+FULL-TIME POSITIONS
+--------------------------------------------------------------------------------
+
+NORTHBAY SOLUTIONS | Principal Software Engineer & ML Lead
+Feb 2023 - Feb 2025 | Remote
+--------------------------------------------------------------------------------
+• Led multiple cross-functional teams in building and deploying Machine Learning 
+  solutions, extracting actionable insights from complex raw data.
+• Collaborated with global Data Scientists to architect scalable ML pipelines 
+  for enterprise clients.
+• Specialized in Time Series Analysis and Forecasting using ARIMA, seasonal 
+  decomposition, and multivariate analysis techniques.
+• Delivered demand forecasting models that improved inventory optimization and 
+  reduced operational costs for clients.
+• Mentored junior data scientists and engineers, establishing best practices 
+  for model development, version control, and deployment.
+• Tech Stack: Python, SQL, scikit-learn, TensorFlow, AWS, Docker
+
+--------------------------------------------------------------------------------
+9T5 (LOOPER INSIGHTS) | Senior Software Engineer - Data Science
+Apr 2022 - Feb 2023 | Remote
+--------------------------------------------------------------------------------
+• Developed deep neural network models for time series forecasting and 
+  cryptocurrency market analysis.
+• Built image processing pipelines using Pytesseract, OpenCV, and TensorFlow 
+  for automated data extraction from streaming device interfaces.
+• Architected serverless data pipelines using AWS Lambda, Amazon Redshift, 
+  and S3 for processing large-scale datasets.
+• Created analytics dashboards in Power BI to visualize trends and KPIs for 
+  clients including Amazon Fire TV and Google TV.
+• Performed feature engineering and classifier optimization to improve model 
+  accuracy by 25%.
+• Conducted cost-benefit analysis of cloud platforms, migrating from GCP 
+  BigQuery to Amazon Redshift, reducing infrastructure costs by 40%.
+• Worked in Agile environment with bi-weekly sprints and continuous deployment.
+• Tech Stack: Python, TensorFlow, OpenCV, AWS (Lambda, Redshift, S3), 
+  Power BI, SQL, Azure
+
+--------------------------------------------------------------------------------
+AFINITI | Production Engineer & Data Automation Analyst
+Aug 2020 - Apr 2022 | Lahore, Pakistan
+--------------------------------------------------------------------------------
+• Provided 24/7 technical support and production monitoring for Afiniti's 
+  AI-powered customer engagement platform.
+• Analyzed production systems using SQL, PostgreSQL, and monitoring tools 
+  (Grafana) to identify and resolve issues proactively.
+• Built automated alerting systems and SOPs that reduced incident response 
+  time by 50%.
+• Collaborated with AI, Data Engineering, ETL, DevOps, Infrastructure, and 
+  DBA teams to ensure smooth operations.
+• Managed containerized environments using Docker for production deployments.
+• Utilized big data technologies including Spark, Hadoop, and cloud data 
+  warehouses (BigQuery, Amazon Redshift).
+• Documented processes and incidents using JIRA, improving knowledge sharing 
+  across teams.
+• Tech Stack: Python, SQL, PostgreSQL, Docker, Spark, Hadoop, GCP, AWS, 
+  Grafana, Git, JIRA
+
+--------------------------------------------------------------------------------
+TECHNO DESERT | Junior Data Scientist
+Jan 2018 - Jul 2020 | Lahore, Pakistan
+--------------------------------------------------------------------------------
+• Conducted end-to-end data analysis on IoT device data, identifying patterns 
+  and key factors affecting device performance.
+• Developed ETL pipelines for the complete AI/ML workflow from data ingestion 
+  to model deployment.
+• Built predictive models using machine learning techniques including 
+  classification, regression, and deep learning.
+• Performed A/B testing to validate model improvements and data-driven 
+  hypotheses.
+• Collaborated with hardware teams to design database schemas for IoT sensor 
+  data storage.
+• Developed a home automation IoT system as an internal innovation project.
+• Contributed to Python open-source community and established team tech stacks.
+• Delivered multiple projects on time with zero critical bugs.
+• Tech Stack: Python, PostgreSQL, MySQL, TensorFlow, scikit-learn, 
+  Data Mining, Statistical Analysis
+
+
+================================================================================
+                        CONTRACT & CONSULTING ROLES
+================================================================================
+
+--------------------------------------------------------------------------------
+TURING | Senior AI Engineer
+Dec 2025 - Present | Remote (Contract)
+--------------------------------------------------------------------------------
+• LLM Training Data Engineering: Developed "Tiered Improvement" training 
+  datasets for Meta's coding models by reverse-engineering Kaggle competitions 
+  from baseline to gold-standard levels.
+• Designed data curation strategies to help models learn complex problem-solving 
+  patterns and multi-step reasoning.
+• Served as Human-in-the-Loop (HITL) reviewer, evaluating model-generated 
+  competition entries against multi-parameter rubrics.
+• Audited thousands of Kaggle datasets against technical parameters to ensure 
+  optimal data diversity and quality for model training.
+• Tech Stack: Python, LLMs, Data Annotation, Kaggle, Model Evaluation
+
+--------------------------------------------------------------------------------
+MARS UK | Senior GenAI & LLM Engineer
+Oct 2023 - Jan 2026 | Remote (Contract)
+--------------------------------------------------------------------------------
+• Architected a GenAI documentation engine using GPT-o3-mini and LangChain 
+  to auto-generate HLD/LLD documentation from MuleSoft codebases, achieving 
+  85%+ accuracy and saving 10+ days of manual knowledge transfer.
+• Led migration of MuleSoft integrations to Azure 2.0, leveraging Generative 
+  AI for optimized data integration workflows.
+• Developed custom hierarchy-mapping system for XML and DWL files to preserve 
+  complex logic flows, mitigating LLM hallucinations and context window 
+  limitations.
+• Built AI-powered HLD Validator tool for compliance checking against 
+  organizational standards, reducing architect-to-designer handoff from 
+  30 days to 10-20 days.
+• Integrated Vector Database for storing Human-in-the-Loop feedback patterns, 
+  enabling real-time learning of evolving organizational standards.
+• Scaled validator framework to include Azure Logic App code validation with 
+  automated wiki/blog scraping, reducing handoff cycle from 5-20 days to 
+  2-5 days.
+• Tech Stack: Python, GPT-4, LangChain, Azure, Vector Databases, RAG, 
+  MuleSoft, XML/DWL Processing
+
+--------------------------------------------------------------------------------
+CXEX AUSTRALIA | Lead AI Engineer
+Apr 2023 - Jan 2025 | Remote (Contract)
+--------------------------------------------------------------------------------
+• Led a team of 10 professionals in developing an enterprise Call Center 
+  Conversational Analytics platform powered by Generative AI.
+• Architected speech-to-text pipelines and sentiment analysis systems for 
+  real-time call analysis.
+• Provided strategic guidance on AI-driven insights, automation opportunities, 
+  and product roadmap.
+• Implemented NLP models for intent classification, entity extraction, and 
+  conversation summarization.
+• Tech Stack: Python, Transformers, NLP, Speech Recognition, Generative AI, 
+  Cloud Infrastructure
+
+--------------------------------------------------------------------------------
+4G CAPITAL KENYA | Junior Data Scientist
+Oct 2022 - Oct 2023 | Remote (Contract)
+--------------------------------------------------------------------------------
+• Developed predictive models for commodity market forecasting and 
+  quantitative trading strategies.
+• Collaborated with analysts and traders to optimize data-driven 
+  decision-making processes.
+• Built feature engineering pipelines for financial time series data.
+• Tech Stack: Python, pandas, scikit-learn, Time Series Analysis, 
+  Statistical Modeling
+
+
+================================================================================
+                            EDUCATION
+================================================================================
+
+--------------------------------------------------------------------------------
+MASTER'S DEGREE IN DATA SCIENCE
+FAST NUCES (National University of Computer and Emerging Sciences)
+May 2020 - Jun 2022
+--------------------------------------------------------------------------------
+• Specialized in transforming data into actionable insights for complex 
+  business decisions
+• Coursework: Machine Learning, Deep Learning, Statistical Analysis, 
+  Big Data Processing, Data Mining
+• Applied computational, statistical, and ML techniques to large-scale datasets
+
+--------------------------------------------------------------------------------
+BACHELOR'S DEGREE IN COMPUTER SCIENCE
+COMSATS University Islamabad
+Mar 2016 - Mar 2020
+--------------------------------------------------------------------------------
+• Focus areas: Machine Learning, Deep Learning, Algorithms, Data Structures
+• Final year project focused on ML applications
+
+
+================================================================================
+                    CERTIFICATIONS & TRAINING
+================================================================================
+
+• AWS Certified Developer Associate | Amazon Web Services
+  - Validated expertise in developing and maintaining AWS-based applications
+
+• Machine Learning Specialization | Coursera
+  - Comprehensive training in ML algorithms, neural networks, and best practices
+
+• Data Analytics Consulting Virtual Internship | KPMG Australia
+  - Hands-on experience in data analytics consulting methodologies
+
+• Andela AI Academy: AI Engineering Bootcamp | Nov 2025 - Dec 2025
+  - Advanced training in AI Engineering practices and methodologies
+
+
+================================================================================
+                            SKILLS
+================================================================================
+
+--------------------------------------------------------------------------------
+GENERATIVE AI & LARGE LANGUAGE MODELS
+--------------------------------------------------------------------------------
+• LLMs: GPT-4, GPT-3.5, Claude, LLaMA, Mistral, BERT, T5
+• Frameworks: LangChain, Hugging Face Transformers, OpenAI API, Anthropic API
+• Techniques: Prompt Engineering, RAG (Retrieval-Augmented Generation), 
+  Fine-tuning, Few-shot Learning, Chain-of-Thought Prompting
+• Optimization: LoRA, PEFT, Quantization (INT8, INT4), CUDA optimization
+• Vector Databases: ChromaDB, Pinecone, Weaviate, FAISS
+
+--------------------------------------------------------------------------------
+MACHINE LEARNING & DEEP LEARNING
+--------------------------------------------------------------------------------
+• Frameworks: TensorFlow, PyTorch, Keras, scikit-learn, XGBoost, LightGBM
+• Techniques: Supervised/Unsupervised Learning, Deep Neural Networks, CNNs, 
+  RNNs, LSTMs, Transformers, Attention Mechanisms
+• Specializations: Time Series Forecasting (ARIMA, Prophet, LSTM), 
+  Predictive Modeling, Classification, Regression, Clustering
+• MLOps: Model versioning, A/B Testing, Model Monitoring, CI/CD for ML
+
+--------------------------------------------------------------------------------
+NATURAL LANGUAGE PROCESSING (NLP)
+--------------------------------------------------------------------------------
+• Libraries: spaCy, NLTK, Hugging Face, Gensim
+• Applications: Text Classification, Named Entity Recognition, Sentiment 
+  Analysis, Question Answering, Text Summarization, Conversational AI
+• Techniques: Word Embeddings (Word2Vec, GloVe), Transformer architectures, 
+  Tokenization, Text Preprocessing
+
+--------------------------------------------------------------------------------
+COMPUTER VISION
+--------------------------------------------------------------------------------
+• Libraries: OpenCV, Pytesseract, PIL/Pillow
+• Applications: Image Processing, OCR, Object Detection, Image Classification
+• Cloud Services: AWS Rekognition, Google Vision API
+
+--------------------------------------------------------------------------------
+CLOUD PLATFORMS & INFRASTRUCTURE
+--------------------------------------------------------------------------------
+AWS:
+• Compute: EC2, Lambda, ECS, SageMaker, SageMaker Pipelines
+• Storage: S3, Redshift
+• AI/ML: Rekognition, Comprehend, Bedrock
+• DevOps: CodeCatalyst, CloudFormation
+• Solution Architecture: Well-Architected Framework, Cost Optimization
+
+Google Cloud Platform (GCP):
+• BigQuery, Cloud Functions, Vertex AI, Cloud Storage
+
+Microsoft Azure:
+• Azure ML, Azure Logic Apps, Azure Functions, Azure DevOps
+
+Containerization & Orchestration:
+• Docker, Kubernetes
+
+--------------------------------------------------------------------------------
+DATA ENGINEERING & DATABASES
+--------------------------------------------------------------------------------
+• ETL/ELT: PySpark, Apache Spark, Hadoop, DataStage, Airflow
+• Databases: PostgreSQL, MySQL, MongoDB, Redis, DB2
+• Data Warehouses: Amazon Redshift, BigQuery, Snowflake
+• Data Processing: pandas, NumPy, Dask
+
+--------------------------------------------------------------------------------
+PROGRAMMING LANGUAGES
+--------------------------------------------------------------------------------
+• Expert: Python, SQL
+• Proficient: Shell Scripting, JavaScript
+• Familiar: C++, R
+
+--------------------------------------------------------------------------------
+DEVELOPMENT TOOLS & PRACTICES
+--------------------------------------------------------------------------------
+• Version Control: Git, GitHub, Bitbucket
+• IDEs: VS Code, PyCharm, Jupyter Notebooks
+• Project Management: JIRA, Confluence, Agile/Scrum
+• Monitoring: Grafana, CloudWatch, Application Insights
+• API Development: FastAPI, Flask, REST APIs
+
+--------------------------------------------------------------------------------
+DATA VISUALIZATION & BI
+--------------------------------------------------------------------------------
+• Tools: Power BI, Tableau, Google Data Studio, Matplotlib, Seaborn, Plotly
+• Dashboarding: Real-time analytics dashboards, KPI tracking
+
+--------------------------------------------------------------------------------
+BUSINESS & STRATEGY
+--------------------------------------------------------------------------------
+• Business Transformation & Digital Strategy
+• Strategic Planning & Roadmap Development
+• Product Development & SaaS Development
+• Marketing Analytics & Data-Driven Decision Making
+• Solution Architecture & System Design
+
+--------------------------------------------------------------------------------
+LEADERSHIP & OPERATIONS
+--------------------------------------------------------------------------------
+• Team Leadership & Cross-functional Collaboration
+• Staff Augmentation & Resource Planning
+• Agile/Scrum Project Management
+• Stakeholder Communication & Client Relations
+• Technical Mentorship & Knowledge Transfer
+
+
+================================================================================
+                        CAREER TIMELINE
+================================================================================
+
+2025-Present  | Turing              | Senior AI Engineer (Contract)
+2023-2026     | Mars UK             | Senior GenAI & LLM Engineer (Contract)
+2023-2025     | CXEX Australia      | Lead AI Engineer (Contract)
+2023-2025     | NorthBay Solutions  | Principal Software Engineer & ML Lead
+2022-2023     | 4G Capital Kenya    | Junior Data Scientist (Contract)
+2022-2023     | 9T5 (Looper)        | Senior Software Engineer - Data Science
+2020-2022     | Afiniti             | Production Engineer & Data Analyst
+2018-2020     | Techno Desert       | Junior Data Scientist
+
+Education:
+2020-2022     | FAST NUCES          | Master's in Data Science
+2016-2020     | COMSATS University  | Bachelor's in Computer Science
+
+
+================================================================================
+                        KEY ACHIEVEMENTS
+================================================================================
+
+• Reduced documentation handoff cycles by 60% (30 days → 10-20 days) through 
+  GenAI-powered automation at Mars UK
+• Led team of 10 professionals in building enterprise Conversational AI 
+  platform at CXEX Australia
+• Achieved 85%+ accuracy in automated HLD/LLD documentation generation
+• Reduced infrastructure costs by 40% through cloud platform optimization
+• Developed LLM training datasets for Meta's coding models at Turing
+• Built real-time analytics systems serving clients like Amazon Fire TV 
+  and Google TV
+
+
+================================================================================
+                        ONLINE PRESENCE
+================================================================================
+
+GitHub: https://github.com/smqd19
+Notable Repositories:
+• Time-Series-Forecasting-and-Crypto-Analysis-Bots-and-Telegram-Discord-Bots
+• Group_Spam_Review_Detection
+• Spotting-Spammer-Using-Group-Spammer-Behaviour-Analysis
+• PowerBI-Projects
+• Big-Data-Basic-Assignments
+
+LinkedIn: https://linkedin.com/in/qasim-dawood-a2b594143
+Website: https://reallytics.ai/
+
+
+================================================================================
